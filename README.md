@@ -18,7 +18,8 @@ This project is an Incident Management System built using Django Rest Framework 
 1. Set Up the Virtual Environment:
 
    python -m venv env
-source env/bin/activate  # On Windows use `env\Scripts\activate`
+
+   source env/bin/activate  # On Windows use `env\Scripts\activate`
 
 2. Install Dependencies:
 
@@ -28,9 +29,10 @@ source env/bin/activate  # On Windows use `env\Scripts\activate`
 
    python manage.py makemigrations
 
-python manage.py migrate
+   python manage.py migrate
 
 4. Run the Development Server:
+
    python manage.py runserver
 
 **Usage**
