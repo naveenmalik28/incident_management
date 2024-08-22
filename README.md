@@ -1,4 +1,4 @@
-# incident_management
+# Incident Management
 This project is an Incident Management System built using Django Rest Framework (DRF) with MySQL/MariaDB as the database. The system allows users to create, view, update, and delete incidents, with features such as role-based access control, auto-generated incident IDs, and user authentication.
 
 **Features**
